@@ -52,6 +52,12 @@
         <img src="./hình ảnh/dsa.png" alt="Thuật toán Dijkstra" width="250" />
     </a>
 </div>
+<!-- Subscribe Button -->
+<div style="margin-top: 20px;">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" target="_blank" style="text-decoration: none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More" />
+  </a>
+</div>
 
 ---
 
