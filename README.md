@@ -4,9 +4,9 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial+&duration=3000&pause=650&background=DFFCFF00&center=true&multiline=true&repeat=false&width=700&height=80&lines=Hello+%5E%5E;Happy+for+your+visitation!;I'm+Ales+Pham.+Student+from+University+of+Information+Technology" alt="Typing SVG" /></a>
 </h1>
-
 <br/>
-## 🌐Socials
+
+# 🌐Socials
 <div align="center"> 
   <a href="mailto:Hungpm267@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
