@@ -58,8 +58,8 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <!-- Video 1 -->
-  <a href="https://www.youtube.com/watch?v=VA2RS9WN9us" title="This is Why You Don't Roll Your Own Auth" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=VA2RS9WN9us&title=This+is+Why+You+Don%27t+Roll+Your+Own+Auth&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981" alt="This is Why You Don't Roll Your Own Auth" />
+  <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray" title="Thực hiện ETL trên Azure" style="text-decoration: none;">
+    <img src="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray" alt="Thực hiện ETL trên Azure" />
   </a>
 
   <!-- Video 2 -->
