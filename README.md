@@ -37,13 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hungpm267&theme=calm&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hungpm267&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/buubuu203/buubuu203/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
 <hr/>
@@ -85,6 +79,15 @@
   </a>
 </div>
 
+<br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/buubuu203/buubuu203/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<br/>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
