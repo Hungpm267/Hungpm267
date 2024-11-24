@@ -39,6 +39,9 @@
 
 ## 📺 Latest YouTube Videos
 <div>
+    <a href="https://youtu.be/Qxk12D07oRA?si=ThP0KDZwZCCerD8N">
+        <img src="./hình ảnh/dsa.png" alt="Thuật toán Dijkstra" width="250" />
+    </a>
     <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray">
         <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" width="250" />
     </a>
