@@ -54,18 +54,47 @@
 
 <br/>
 
-### 📺 Latest YouTube Videos
+<h3>📺 Latest YouTube Videos</h3>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Thực hiện ETL trên Microsoft Azure](https://youtu.be/3wUCPwyJahM?si=MtG_6kKSqWTP3B6r"Thực hiện ETL trên Microsoft Azure")](https://youtu.be/3wUCPwyJahM?si=MtG_6kKSqWTP3B6r)
-[![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
-[![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
-[![I Spent 40 Hours Coding This!](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "I Spent 40 Hours Coding This!")](https://www.youtube.com/watch?v=e85uJvX5geA)
-[![8 Data Structures Every Programmer Should Know](https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "8 Data Structures Every Programmer Should Know")](https://www.youtube.com/watch?v=gxdQiBkidWk)
-[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
-<!-- END YOUTUBE-CARDS -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <!-- Video 1 -->
+  <a href="https://www.youtube.com/watch?v=VA2RS9WN9us" title="This is Why You Don't Roll Your Own Auth" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=VA2RS9WN9us&title=This+is+Why+You+Don%27t+Roll+Your+Own+Auth&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981" alt="This is Why You Don't Roll Your Own Auth" />
+  </a>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+  <!-- Video 2 -->
+  <a href="https://www.youtube.com/watch?v=zX4u3SudI-0" title="3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343" alt="3 Coding Projects to Break the Coding Barrier" />
+  </a>
+
+  <!-- Video 3 -->
+  <a href="https://www.youtube.com/watch?v=WBl31Pyr_M8" title="A Day in the Life of a Software Engineer" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259" alt="A Day in the Life of a Software Engineer" />
+  </a>
+
+  <!-- Video 4 -->
+  <a href="https://www.youtube.com/watch?v=e85uJvX5geA" title="I Spent 40 Hours Coding This!" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606" alt="I Spent 40 Hours Coding This!" />
+  </a>
+
+  <!-- Video 5 -->
+  <a href="https://www.youtube.com/watch?v=gxdQiBkidWk" title="8 Data Structures Every Programmer Should Know" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" alt="8 Data Structures Every Programmer Should Know" />
+  </a>
+
+  <!-- Video 6 -->
+  <a href="https://www.youtube.com/watch?v=gHRVhL1fZC0" title="Programmers Need More Math" style="text-decoration: none;">
+    <img src="https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317" alt="Programmers Need More Math" />
+  </a>
+</div>
+
+<!-- Subscribe Button -->
+<div style="margin-top: 20px;">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" target="_blank" style="text-decoration: none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More" />
+  </a>
+</div>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
