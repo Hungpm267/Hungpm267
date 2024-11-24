@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hungpm267&theme=calm&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hungpm267&theme=calm&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hungpm267&theme=calm&hide_border=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hungpm267&theme=calm&hide_border=true)
 
 ---
 
