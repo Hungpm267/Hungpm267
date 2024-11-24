@@ -9,6 +9,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hungpm267&theme=calm&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hungpm267&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/buubuu203/buubuu203/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Hungpm267&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
