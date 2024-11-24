@@ -6,7 +6,6 @@
 </h1>
 
 <br/>
-
 ## 🌐Socials
 <div align="center"> 
   <a href="mailto:Hungpm267@gmail.com">
