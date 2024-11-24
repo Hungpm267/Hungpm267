@@ -77,20 +77,4 @@
 
 ---
 
-## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Hungpm267&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
 
