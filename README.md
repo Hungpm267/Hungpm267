@@ -59,32 +59,22 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <!-- Video 1 -->
   <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray" title="Thực hiện ETL trên Azure" style="text-decoration: none;">
-    <img src="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray" alt="Thực hiện ETL trên Azure" />
+    <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" />
   </a>
 
   <!-- Video 2 -->
-  <a href="https://www.youtube.com/watch?v=zX4u3SudI-0" title="3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343" alt="3 Coding Projects to Break the Coding Barrier" />
+  <a href="https://youtu.be/A9MKXKRtL_M?si=Sn_FrTwUCABizL9b" title="Thuật toán gom cụm K-Mean" style="text-decoration: none;">
+    <img src="./hình ảnh/gom chụm.png" alt="3 Coding Projects to Break the Coding Barrier" />
   </a>
 
   <!-- Video 3 -->
-  <a href="https://www.youtube.com/watch?v=WBl31Pyr_M8" title="A Day in the Life of a Software Engineer" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259" alt="A Day in the Life of a Software Engineer" />
+  <a href="https://youtu.be/cYGOwqLYO7E?si=b13V65NyC5E01C_t" title="Quá Trình SSIS xây dựng DatawareHouse" style="text-decoration: none;">
+    <img src="./hình ảnh/SSIS video.png" alt="" />
   </a>
 
   <!-- Video 4 -->
-  <a href="https://www.youtube.com/watch?v=e85uJvX5geA" title="I Spent 40 Hours Coding This!" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606" alt="I Spent 40 Hours Coding This!" />
-  </a>
-
-  <!-- Video 5 -->
-  <a href="https://www.youtube.com/watch?v=gxdQiBkidWk" title="8 Data Structures Every Programmer Should Know" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=gxdQiBkidWk&title=8+Data+Structures+Every+Programmer+Should+Know&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" alt="8 Data Structures Every Programmer Should Know" />
-  </a>
-
-  <!-- Video 6 -->
-  <a href="https://www.youtube.com/watch?v=gHRVhL1fZC0" title="Programmers Need More Math" style="text-decoration: none;">
-    <img src="https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317" alt="Programmers Need More Math" />
+  <a href="https://youtu.be/Qxk12D07oRA?si=ThP0KDZwZCCerD8N" title="Thuật toán Dijkstra" style="text-decoration: none;">
+    <img src="./hình ảnh/dsa.png" alt="I Spent 40 Hours Coding This!" />
   </a>
 </div>
 
