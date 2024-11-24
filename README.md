@@ -42,16 +42,16 @@
     <a href="https://youtu.be/Qxk12D07oRA?si=ThP0KDZwZCCerD8N">
         <img src="./hình ảnh/dsa.png" alt="Thuật toán Dijkstra" width="250" />
     </a>
-    <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray">
-        <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" width="250" />
-    </a>
+    
     <a href="https://youtu.be/A9MKXKRtL_M?si=Sn_FrTwUCABizL9b">
         <img src="./hình ảnh/gom chụm.png" alt="Thuật toán gom cụm K-Mean" width="250" />
     </a>
     <a href="https://youtu.be/cYGOwqLYO7E?si=b13V65NyC5E01C_t">
         <img src="./hình ảnh/SSIS video.png" alt="Quá Trình SSIS xây dựng DatawareHouse" width="250" />
     </a>
-   
+   <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray">
+        <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" width="250" />
+    </a>
 </div>
 <!-- Subscribe Button -->
 <div style="margin-top: 20px;" align = "center">
