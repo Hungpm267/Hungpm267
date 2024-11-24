@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Buu+Dang!;" />
 </h1>
 
-<h3 align="center">A passionate business analyst from UIT</h3>
+<h3 align="center">A passionate student in Information Technology</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying in **University Of Information Technology - VNUHCM**
  
- 🌱 My major is **E-Commerce**
+ 🌱 My major is **Information System**
  
  </div>
  
