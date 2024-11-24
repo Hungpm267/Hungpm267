@@ -49,7 +49,7 @@
 <br/>
 
 <h3>📺 Latest YouTube Videos</h3>
-
+<br/>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <!-- Video 1 -->
   <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray" title="Thực hiện ETL trên Azure" style="text-decoration: none;">
@@ -78,7 +78,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More" />
   </a>
 </div>
-
+<br/>
 <br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
