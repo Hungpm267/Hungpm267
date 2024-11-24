@@ -42,7 +42,6 @@
     <a href="https://youtu.be/Qxk12D07oRA?si=ThP0KDZwZCCerD8N">
         <img src="./hình ảnh/dsa.png" alt="Thuật toán Dijkstra" width="250" />
     </a>
-    
     <a href="https://youtu.be/A9MKXKRtL_M?si=Sn_FrTwUCABizL9b">
         <img src="./hình ảnh/gom chụm.png" alt="Thuật toán gom cụm K-Mean" width="250" />
     </a>
