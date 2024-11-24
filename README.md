@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hungpm267.Hungpm267" />
 
 <br/>
-
+<h1 align="center">
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%5E%5E;Happy+for+your+visitation!;I'm+Ales+Pham.+Student+from+University+of+Information+Technology" alt="Typing SVG" /></a>" />
+</h1>
+<br/>
 ## 🌐Socials
 <div align="center"> 
   <a href="mailto:Hungpm267@gmail.com">
