@@ -38,7 +38,8 @@
 ---
 
 ## 📺 Latest YouTube Videos
-<div><a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray">
+<div align ="center">
+    <a href="https://youtu.be/3wUCPwyJahM?si=z6YfyUzbCUwNZray">
         <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" width="250" />
     </a>
     <a href="https://youtu.be/A9MKXKRtL_M?si=Sn_FrTwUCABizL9b">
