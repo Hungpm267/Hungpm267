@@ -36,8 +36,9 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
-    <td align="center"><img src="https://seeklogo.com/images/L/langchain-logo-6B97C4B1B1-seeklogo.com.png" width="60"/><br>LangChain</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" width="60"/><br>LangGraph</td>
+<td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td>
+<td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
+
   </tr>
 </table>
 
