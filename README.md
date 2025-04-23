@@ -40,10 +40,6 @@
       <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
       
   </tr>
-  <tr>
-
-
-  </tr>
 </table>
 
 
