@@ -32,12 +32,13 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td>
     <td align="center"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="60"/><br>C++</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
 <td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td>
 <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
+  </tr>
+  <tr>
+
 
   </tr>
 </table>
