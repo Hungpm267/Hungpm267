@@ -8,7 +8,6 @@
 </h1>
 -->
 
----
 
 ## 🌐 Socials
 <div align="center">
@@ -28,23 +27,22 @@
 ---
 
 ## 💻 Tech Stack
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/C%2B%2B_logo.png" width="60"/><br>C++</td>
+    <td align="center"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="60"/><br>C++</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
     <td align="center"><img src="https://seeklogo.com/images/L/langchain-logo-6B97C4B1B1-seeklogo.com.png" width="60"/><br>LangChain</td>
-    <td align="center"><img src="https://github.com/langchain-ai/langgraph/assets/13458342/c749e362-f08b-4e38-a7a2-3ae79c5e72d5" width="60"/><br>LangGraph</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" width="60"/><br>LangGraph</td>
   </tr>
 </table>
 
----
+
 
 <!--
 ## 📺 Latest YouTube Videos
@@ -69,8 +67,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More" />
   </a>
 </div>
-
----
+<!--
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
