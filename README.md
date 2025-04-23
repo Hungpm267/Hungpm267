@@ -37,6 +37,7 @@
 <td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td>
 <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
       <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td>
+      <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
       
   </tr>
   <tr>
