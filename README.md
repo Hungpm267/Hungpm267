@@ -1,10 +1,12 @@
 <!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hungpm267.Hungpm267)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hungpm267.Hungpm267) -->
 
 <!-- Header with Typing SVG -->
+<!--
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial+&duration=3000&pause=650&background=DFFCFF00&center=true&multiline=true&repeat=false&width=700&height=80&lines=Hello+%5E%5E;Happy+for+your+visitation!;I'm+Ales+Pham.+Student+from+University+of+Information+Technology" alt="Typing SVG" />
 </h1>
+-->
 
 ---
 
@@ -27,17 +29,24 @@
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23009688.svg?style=flat&logo=LangChain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%231E1E2F.svg?style=flat)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/C%2B%2B_logo.png" width="60"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
+    <td align="center"><img src="https://seeklogo.com/images/L/langchain-logo-6B97C4B1B1-seeklogo.com.png" width="60"/><br>LangChain</td>
+    <td align="center"><img src="https://github.com/langchain-ai/langgraph/assets/13458342/c749e362-f08b-4e38-a7a2-3ae79c5e72d5" width="60"/><br>LangGraph</td>
+  </tr>
+</table>
 
 ---
 
+<!--
 ## 📺 Latest YouTube Videos
 <div>
     <a href="https://youtu.be/Qxk12D07oRA?si=ThP0KDZwZCCerD8N">
@@ -53,6 +62,7 @@
         <img src="./hình ảnh/image.png" alt="Thực hiện ETL trên Azure" width="250" />
     </a>
 </div>
+
 <!-- Subscribe Button -->
 <div style="margin-top: 20px;" align = "center">
   <a href="https://www.youtube.com/@hungmanh2607" target="_blank" style="text-decoration: none;">
@@ -66,7 +76,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/buubuu203/buubuu203/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -75,7 +84,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)" alt="Thanks for visiting" />
 </h3>
-
----
-
-
+-->
