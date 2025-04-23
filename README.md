@@ -22,7 +22,6 @@
     </a>
 </div>
 
-<h3 align="center">A passionate student in Information Technology</h3>
 
 ---
 
@@ -62,11 +61,13 @@
 </div>
 
 <!-- Subscribe Button -->
+<!--
 <div style="margin-top: 20px;" align = "center">
   <a href="https://www.youtube.com/@hungmanh2607" target="_blank" style="text-decoration: none;">
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More" />
   </a>
 </div>
+-->
 <!--
 
 <div align="center">
