@@ -39,6 +39,8 @@
       <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td>
       <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
       
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="60"/><br>Flask</td>
+      
   </tr>
 </table>
 
