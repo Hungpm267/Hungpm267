@@ -38,7 +38,7 @@
     <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
     <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td>
     <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
-    <td align="center"><img src="hình ảnh/docker-original.svg" width="60"/><br>Docker</td>
+    <td align="center"><img src="hình ảnh/docker.png" width="60"/><br>Docker</td>
     
       
   </tr>
