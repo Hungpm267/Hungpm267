@@ -36,7 +36,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
     <td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td>
     <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
-    <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td>
+<!--     <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td> -->
     <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
     <td align="center"><img src="hình ảnh/docker.png" width="60"/><br>Docker</td>
     
