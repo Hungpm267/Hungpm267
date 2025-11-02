@@ -29,13 +29,13 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td>
+    <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/><br>Flask</td> -->
     <td align="center"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="60"/><br>C++</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/><br>Azure</td>
-    <td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td>
-    <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td>
+    <!-- <td align="center"><img src="hình ảnh/langchain.svg" width="60"/><br>LangChain</td> -->
+    <!-- <td align="center"><img src="hình ảnh/langgraph.png" width="60"/><br>LangGraph</td> -->
 <!--     <td align="center"><img src="hình ảnh/distributed-dbms.svg" width="60"/><br>Distributed Database</td> -->
     <td align="center"><img src="hình ảnh/sql.png" width="60"/><br>SQL</td>
     <td align="center"><img src="hình ảnh/docker.png" width="60"/><br>Docker</td>
